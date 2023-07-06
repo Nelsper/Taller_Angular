@@ -1,0 +1,35 @@
+/* input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+button{
+    margin-top: 10px;
+    width: 75px;
+    background-color: aquamarine;
+} */
+
+mat-card{
+    width: 400px;
+    margin: 0 auto;
+}
+.login__form{
+    display: flex;
+    flex-direction: column;
+}
+.login__form--field{
+    margin-top: 16px;
+}
+.login__links{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+}
+.login__link{
+    text-decoration: none;
+    color: #3f51b5;
+    font-weight: bold;
+    text-align: center;
+}

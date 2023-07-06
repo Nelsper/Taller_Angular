@@ -1,0 +1,14 @@
+mat-card{
+    width: 400px;
+    margin: 0 auto;
+}
+.register__form{
+    display: flex;
+    flex-direction: column;
+}
+.register__form--field{
+    margin-top: 16px;
+}
+button{
+    margin-top: 10px;
+}
